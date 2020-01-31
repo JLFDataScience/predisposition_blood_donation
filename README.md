@@ -1,6 +1,8 @@
 # Predicting Blood Donations with Python
 *This is based on repository of [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php).*  
-*This article was written as part of a Data Science Master task.*
+*This article was written as part of a Data Science Master task.*  
+
+![alt text](http://joseluisfernandez.me/wp-content/uploads/2020/01/Imagen_destacada_blood-2048x1546.png "predicting blood donations with Python")  
 
 When a person loses high blood from an accident, operation, or has health problems, they may need to receive a blood transfusion.
 However, since human blood is a substance that cannot currently be manufactured, it is necessary to obtain it from another person, i.e. a blood donor.
